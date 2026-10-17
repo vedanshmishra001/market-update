@@ -1,0 +1,13 @@
+date,retrieved_at_utc,symbol,name,group,close,previous_close,change_pct,source
+2026-10-16,2026-10-17T15:25:05+00:00,^NSEI,Nifty 50,India indices,23146.150390625,22997.349609375,0.6470344790920679,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:06+00:00,^BSESN,Sensex,India indices,74729.2734375,74315.609375,0.556631461383339,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:06+00:00,^NSEBANK,Nifty Bank,India indices,55844.0,55810.5,0.060024547352210966,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:06+00:00,^GSPC,S&P 500,US indices,7659.43994140625,7744.06005859375,-1.0927099809045937,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:07+00:00,^IXIC,Nasdaq Composite,US indices,26140.029296875,26713.029296875,-2.1450206699957897,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:07+00:00,^DJI,Dow Jones,US indices,52002.41015625,52177.69140625,-0.33593140147822886,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:07+00:00,GC=F,Gold futures,Commodities,4181.10009765625,4170.10009765625,0.2637826369247698,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:07+00:00,SI=F,Silver futures,Commodities,56.994998931884766,56.83700180053711,0.2779828744347457,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:08+00:00,CL=F,WTI crude futures,Commodities,101.41000366210938,97.97000122070312,3.511281411191103,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:08+00:00,BZ=F,Brent crude futures,Commodities,109.86000061035156,105.91999816894531,3.7197908888950693,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-17,2026-10-17T15:25:08+00:00,INR=X,USD/INR indicative,Currencies,94.95999908447266,94.5248031616211,0.46040394509729854,Yahoo Finance via yfinance (unofficial adapter)
+2026-10-16,2026-10-17T15:25:09+00:00,DX-Y.NYB,US Dollar Index,Currencies,101.83999633789062,102.0,-0.1568663354013511,Yahoo Finance via yfinance (unofficial adapter)
