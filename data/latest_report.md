@@ -1,21 +1,21 @@
-DAILY MARKET PULSE | 20 Oct 2026
+DAILY MARKET PULSE | 21 Oct 2026
 
 Markets at a glance
 
 US indices:
-• S&P 500: 7,712.95 (+0.29%)
-• Nasdaq Composite: 26,447.65 (+0.06%)
-• Dow Jones: 52,417.52 (+0.87%)
+• S&P 500: 7,712.57 (+0.28%)
+• Nasdaq Composite: 26,424.82 (-0.02%)
+• Dow Jones: 52,495.88 (+1.02%)
 
 Commodities:
-• Gold futures: 4,153.60 (-0.16%)
-• Silver futures: 57.92 (+1.65%)
-• WTI crude futures: 97.38 (-6.06%)
-• Brent crude futures: 108.12 (-1.31%)
+• Gold futures: 4,133.30 (-0.64%)
+• Silver futures: 57.94 (+1.70%)
+• WTI crude futures: 98.43 (-5.05%)
+• Brent crude futures: 109.37 (-0.16%)
 
 Currencies:
-• USD/INR indicative: 94.92 (-0.07%)
-• US Dollar Index: 101.71 (-0.27%)
+• USD/INR indicative: 94.99 (+0.02%)
+• US Dollar Index: 101.79 (-0.18%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
