@@ -2,8 +2,24 @@ DAILY MARKET PULSE | 22 Oct 2026
 
 Markets at a glance
 
+India indices:
+• Sensex: 73,249.39 (-0.62%)
+• Nifty Bank: 54,925.70 (-0.09%)
+
+US indices:
+• S&P 500: 7,658.95 (-1.27%)
+• Nasdaq Composite: 26,103.60 (-2.24%)
+• Dow Jones: 52,743.86 (-0.21%)
+
+Commodities:
+• Gold futures: 4,067.90 (-1.98%)
+• Silver futures: 55.32 (-3.66%)
+• WTI crude futures: 98.26 (+1.14%)
+• Brent crude futures: 111.15 (+2.14%)
+
 Currencies:
-• USD/INR indicative: 94.45 (-0.28%)
+• USD/INR indicative: 94.81 (+0.10%)
+• US Dollar Index: 101.77 (-0.01%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
