@@ -1,26 +1,9 @@
-DAILY MARKET PULSE | 26 Oct 2026
+DAILY MARKET PULSE | 27 Oct 2026
 
 Markets at a glance
 
-India indices:
-• Nifty 50: 22,753.20 (+0.68%)
-• Sensex: 73,606.75 (+0.66%)
-• Nifty Bank: 54,366.70 (+0.15%)
-
-US indices:
-• S&P 500: 7,681.43 (+0.76%)
-• Nasdaq Composite: 26,227.36 (+1.05%)
-• Dow Jones: 52,329.47 (+0.22%)
-
-Commodities:
-• Gold futures: 4,034.00 (+0.65%)
-• Silver futures: 54.22 (+0.94%)
-• WTI crude futures: 102.64 (-0.61%)
-• Brent crude futures: 111.64 (-4.35%)
-
 Currencies:
-• USD/INR indicative: 95.18 (+0.49%)
-• US Dollar Index: 101.97 (+0.16%)
+• USD/INR indicative: 95.18 (+0.25%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
