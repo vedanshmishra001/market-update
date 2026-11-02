@@ -1,26 +1,21 @@
-DAILY MARKET PULSE | 31 Oct 2026
+DAILY MARKET PULSE | 02 Nov 2026
 
 Markets at a glance
 
-India indices:
-• Nifty 50: 23,053.10 (+0.51%)
-• Sensex: 74,459.53 (+0.42%)
-• Nifty Bank: 54,686.95 (-0.41%)
-
 US indices:
-• S&P 500: 7,580.07 (-1.82%)
-• Nasdaq Composite: 25,437.00 (-2.86%)
-• Dow Jones: 51,770.31 (-1.09%)
+• S&P 500: 7,550.30 (-0.39%)
+• Nasdaq Composite: 25,191.48 (-0.97%)
+• Dow Jones: 52,069.45 (+0.58%)
 
 Commodities:
-• Gold futures: 3,884.90 (-3.63%)
-• Silver futures: 49.13 (-5.86%)
-• WTI crude futures: 102.95 (+0.93%)
-• Brent crude futures: 112.33 (-2.22%)
+• Gold futures: 3,950.90 (+1.33%)
+• Silver futures: 50.64 (+3.14%)
+• WTI crude futures: 96.23 (-7.58%)
+• Brent crude futures: 104.36 (-11.29%)
 
 Currencies:
-• USD/INR indicative: 95.15 (-0.06%)
-• US Dollar Index: 101.96 (-0.07%)
+• USD/INR indicative: 94.90 (-0.27%)
+• US Dollar Index: 101.76 (-0.12%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
