@@ -1,26 +1,9 @@
-DAILY MARKET PULSE | 04 Nov 2026
+DAILY MARKET PULSE | 05 Nov 2026
 
 Markets at a glance
 
-India indices:
-• Nifty 50: 23,960.60 (+0.63%)
-• Sensex: 77,301.40 (+0.50%)
-• Nifty Bank: 55,913.60 (+0.67%)
-
-US indices:
-• S&P 500: 7,705.25 (+1.80%)
-• Nasdaq Composite: 25,877.43 (+1.99%)
-• Dow Jones: 53,270.38 (+2.86%)
-
-Commodities:
-• Gold futures: 4,077.90 (+3.49%)
-• Silver futures: 52.40 (+5.67%)
-• WTI crude futures: 88.50 (-7.90%)
-• Brent crude futures: 95.26 (-8.05%)
-
 Currencies:
-• USD/INR indicative: 94.63 (-0.10%)
-• US Dollar Index: 101.47 (-0.39%)
+• USD/INR indicative: 94.53 (-0.23%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
