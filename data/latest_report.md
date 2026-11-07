@@ -1,4 +1,4 @@
-DAILY MARKET PULSE | 06 Nov 2026
+DAILY MARKET PULSE | 07 Nov 2026
 
 Markets at a glance
 
@@ -8,19 +8,19 @@ India indices:
 • Nifty Bank: 59,086.00 (+2.27%)
 
 US indices:
-• S&P 500: 7,387.57 (+0.46%)
-• Nasdaq Composite: 24,554.12 (+0.98%)
-• Dow Jones: 51,450.28 (-0.14%)
+• S&P 500: 7,376.86 (+0.31%)
+• Nasdaq Composite: 24,579.42 (+1.09%)
+• Dow Jones: 51,285.73 (-0.46%)
 
 Commodities:
-• Gold futures: 4,068.90 (-1.08%)
-• Silver futures: 51.81 (-0.81%)
-• WTI crude futures: 89.99 (-0.59%)
-• Brent crude futures: 97.36 (-0.95%)
+• Gold futures: 4,079.50 (-0.83%)
+• Silver futures: 51.97 (-0.51%)
+• WTI crude futures: 90.34 (-0.20%)
+• Brent crude futures: 97.76 (-0.54%)
 
 Currencies:
-• USD/INR indicative: 93.89 (-0.66%)
-• US Dollar Index: 102.14 (+0.58%)
+• USD/INR indicative: 94.46 (-0.06%)
+• US Dollar Index: 102.28 (+0.72%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
