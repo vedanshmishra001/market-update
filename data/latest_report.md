@@ -1,6 +1,11 @@
-DAILY MARKET PULSE | 09 Nov 2026
+DAILY MARKET PULSE | 10 Nov 2026
 
 Markets at a glance
+
+India indices:
+• Nifty 50: 25,044.65 (+0.06%)
+• Sensex: 81,106.65 (+0.10%)
+• Nifty Bank: 59,741.25 (+1.11%)
 
 US indices:
 • S&P 500: 7,549.94 (+2.35%)
@@ -8,13 +13,13 @@ US indices:
 • Dow Jones: 52,389.75 (+2.15%)
 
 Commodities:
-• Gold futures: 4,148.80 (+1.81%)
-• Silver futures: 53.34 (+2.97%)
-• WTI crude futures: 86.93 (-4.29%)
-• Brent crude futures: 92.76 (-5.66%)
+• Gold futures: 4,121.70 (+1.15%)
+• Silver futures: 53.03 (+2.36%)
+• WTI crude futures: 85.82 (-5.52%)
+• Brent crude futures: 91.72 (-6.71%)
 
 Currencies:
-• USD/INR indicative: 93.92 (-0.57%)
+• USD/INR indicative: 93.90 (-0.59%)
 • US Dollar Index: 101.68 (-0.61%)
 
 Headlines to watch
