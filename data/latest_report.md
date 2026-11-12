@@ -2,8 +2,20 @@ DAILY MARKET PULSE | 12 Nov 2026
 
 Markets at a glance
 
+US indices:
+• S&P 500: 7,624.50 (+0.07%)
+• Nasdaq Composite: 25,465.92 (-0.00%)
+• Dow Jones: 52,576.59 (+0.17%)
+
+Commodities:
+• Gold futures: 3,885.50 (-2.87%)
+• Silver futures: 50.15 (-3.33%)
+• WTI crude futures: 88.30 (+2.05%)
+• Brent crude futures: 95.17 (+2.60%)
+
 Currencies:
-• USD/INR indicative: 93.68 (-0.26%)
+• USD/INR indicative: 94.03 (+0.11%)
+• US Dollar Index: 103.19 (+0.27%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
