@@ -1,26 +1,21 @@
-DAILY MARKET PULSE | 14 Nov 2026
+DAILY MARKET PULSE | 16 Nov 2026
 
 Markets at a glance
 
-India indices:
-• Nifty 50: 25,144.30 (-0.61%)
-• Sensex: 81,592.45 (-0.39%)
-• Nifty Bank: 61,034.10 (-0.79%)
-
 US indices:
-• S&P 500: 7,561.67 (-0.40%)
-• Nasdaq Composite: 25,136.27 (-0.91%)
-• Dow Jones: 52,347.55 (+0.10%)
+• S&P 500: 7,407.89 (-2.03%)
+• Nasdaq Composite: 24,492.91 (-2.56%)
+• Dow Jones: 51,543.84 (-1.54%)
 
 Commodities:
-• Gold futures: 3,887.60 (+0.06%)
-• Silver futures: 48.65 (-2.65%)
-• WTI crude futures: 88.92 (+0.20%)
-• Brent crude futures: 96.08 (+0.27%)
+• Gold futures: 3,856.00 (-0.78%)
+• Silver futures: 46.87 (-4.41%)
+• WTI crude futures: 85.55 (-3.40%)
+• Brent crude futures: 92.38 (-3.61%)
 
 Currencies:
-• USD/INR indicative: 94.03 (+0.36%)
-• US Dollar Index: 103.41 (+0.23%)
+• USD/INR indicative: 93.91 (-0.13%)
+• US Dollar Index: 103.58 (+0.17%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
