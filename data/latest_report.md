@@ -7,8 +7,20 @@ India indices:
 • Sensex: 82,223.12 (+0.14%)
 • Nifty Bank: 61,777.75 (+0.33%)
 
+US indices:
+• S&P 500: 7,325.44 (-1.23%)
+• Nasdaq Composite: 24,239.93 (-1.10%)
+• Dow Jones: 50,760.92 (-1.64%)
+
+Commodities:
+• Gold futures: 3,855.70 (+0.07%)
+• Silver futures: 47.30 (+1.10%)
+• WTI crude futures: 86.03 (+0.36%)
+• Brent crude futures: 93.16 (+0.78%)
+
 Currencies:
-• USD/INR indicative: 93.69 (-0.58%)
+• USD/INR indicative: 93.46 (-0.83%)
+• US Dollar Index: 103.47 (-0.08%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
