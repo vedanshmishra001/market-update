@@ -1,21 +1,14 @@
-DAILY MARKET PULSE | 16 Nov 2026
+DAILY MARKET PULSE | 17 Nov 2026
 
 Markets at a glance
 
-US indices:
-• S&P 500: 7,407.89 (-2.03%)
-• Nasdaq Composite: 24,492.91 (-2.56%)
-• Dow Jones: 51,543.84 (-1.54%)
-
-Commodities:
-• Gold futures: 3,856.00 (-0.78%)
-• Silver futures: 46.87 (-4.41%)
-• WTI crude futures: 85.55 (-3.40%)
-• Brent crude futures: 92.38 (-3.61%)
+India indices:
+• Nifty 50: 25,303.35 (+0.05%)
+• Sensex: 82,223.12 (+0.14%)
+• Nifty Bank: 61,777.75 (+0.33%)
 
 Currencies:
-• USD/INR indicative: 93.91 (-0.13%)
-• US Dollar Index: 103.58 (+0.17%)
+• USD/INR indicative: 93.69 (-0.58%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
