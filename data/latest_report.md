@@ -2,8 +2,20 @@ DAILY MARKET PULSE | 19 Nov 2026
 
 Markets at a glance
 
+US indices:
+• S&P 500: 7,215.63 (-1.47%)
+• Nasdaq Composite: 24,056.62 (-1.53%)
+• Dow Jones: 49,312.62 (-1.76%)
+
+Commodities:
+• Gold futures: 3,676.20 (-1.76%)
+• Silver futures: 44.21 (-1.75%)
+• WTI crude futures: 82.94 (-0.38%)
+• Brent crude futures: 89.83 (-2.31%)
+
 Currencies:
-• USD/INR indicative: 93.44 (-0.04%)
+• USD/INR indicative: 93.28 (-0.21%)
+• US Dollar Index: 103.88 (+0.02%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
