@@ -1,21 +1,16 @@
-DAILY MARKET PULSE | 23 Nov 2026
+DAILY MARKET PULSE | 24 Nov 2026
 
 Markets at a glance
 
-US indices:
-• S&P 500: 7,237.17 (+4.73%)
-• Nasdaq Composite: 24,089.56 (+6.51%)
-• Dow Jones: 49,595.31 (+3.01%)
-
 Commodities:
-• Gold futures: 3,634.40 (+3.39%)
-• Silver futures: 42.99 (+4.76%)
-• WTI crude futures: 80.25 (-4.44%)
-• Brent crude futures: 86.72 (-6.32%)
+• Gold futures: 3,635.30 (-0.44%)
+• Silver futures: 42.45 (-1.62%)
+• WTI crude futures: 79.38 (-0.99%)
+• Brent crude futures: 85.94 (-3.84%)
 
 Currencies:
-• USD/INR indicative: 92.90 (-0.42%)
-• US Dollar Index: 104.35 (+0.52%)
+• USD/INR indicative: 92.90 (+0.24%)
+• US Dollar Index: 104.31 (-0.01%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
