@@ -1,16 +1,14 @@
-DAILY MARKET PULSE | 24 Nov 2026
+DAILY MARKET PULSE | 25 Nov 2026
 
 Markets at a glance
 
-Commodities:
-• Gold futures: 3,635.30 (-0.44%)
-• Silver futures: 42.45 (-1.62%)
-• WTI crude futures: 79.38 (-0.99%)
-• Brent crude futures: 85.94 (-3.84%)
+India indices:
+• Nifty 50: 25,758.45 (+1.61%)
+• Sensex: 83,835.85 (+1.70%)
+• Nifty Bank: 63,649.45 (+1.70%)
 
 Currencies:
-• USD/INR indicative: 92.90 (+0.24%)
-• US Dollar Index: 104.31 (-0.01%)
+• USD/INR indicative: 92.52 (-0.42%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
