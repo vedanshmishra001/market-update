@@ -6,8 +6,15 @@ India indices:
 • Nifty 50: 25,873.20 (+0.21%)
 • Nifty Bank: 63,883.10 (+0.28%)
 
+Commodities:
+• Gold futures: 3,593.40 (+1.63%)
+• Silver futures: 41.75 (+4.24%)
+• WTI crude futures: 84.91 (+1.47%)
+• Brent crude futures: 91.73 (-3.04%)
+
 Currencies:
-• USD/INR indicative: 92.48 (-0.35%)
+• USD/INR indicative: 92.43 (-0.40%)
+• US Dollar Index: 103.78 (+0.10%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
