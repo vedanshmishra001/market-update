@@ -1,10 +1,11 @@
-DAILY MARKET PULSE | 27 Nov 2026
+DAILY MARKET PULSE | 28 Nov 2026
 
 Markets at a glance
 
 India indices:
-• Nifty 50: 25,839.25 (-0.17%)
-• Nifty Bank: 63,326.20 (-0.33%)
+• Nifty 50: 25,607.20 (-1.07%)
+• Sensex: 83,339.26 (-1.17%)
+• Nifty Bank: 63,040.90 (-0.78%)
 
 US indices:
 • S&P 500: 7,297.49 (+1.60%)
@@ -15,11 +16,11 @@ Commodities:
 • Gold futures: 3,668.50 (+3.75%)
 • Silver futures: 43.70 (+9.11%)
 • WTI crude futures: 83.08 (-0.72%)
-• Brent crude futures: 90.61 (-4.23%)
+• Brent crude futures: 90.84 (-3.98%)
 
 Currencies:
-• USD/INR indicative: 92.98 (+0.80%)
-• US Dollar Index: 104.04 (+0.36%)
+• USD/INR indicative: 92.45 (+0.23%)
+• US Dollar Index: 104.01 (+0.33%)
 
 Headlines to watch
 • Bank of Canada’s Macklem warns global resilience ‘under strain’ - Lethbridge News Now (Lethbridge News Now)
